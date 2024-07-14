@@ -1,6 +1,6 @@
 Customer Satisfaction in Online Store
 
-Tools used: Python, Pandas, 
+Python libraries used: Pandas, Scikit-learn, Mathplotlib, Seaborn, Statsmodels, NumPy.   
 This project is based on a Brazilian ecommerce public dataset made at [Olist Store](https://olist.com/).
 Olist is essentially an aggregating platform - it offers suppliers or sellers the possibility to sell their products at their website and connects them to potential buyers.
 You can find more information about the dataset [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
